@@ -23,8 +23,6 @@
 - DevOps and the Cloud.
 - Cybersecurity Operations.
 
-<br />
-
 ### My Hobbies:
 
 - Learning: Programming, Engineering, DevOps, Cloud, and Cyber.
@@ -32,8 +30,6 @@
 - Offensive cyber security: Penetration testing and capture the flags. (CTFs)
 - Flying: Working on my Student Pilot's license over the last few years.
 - Amateur Radio: (aka Ham Radio) My FCC call sign is NY8Y.
-
-<br />
 
 ### Programming Languages:
 
